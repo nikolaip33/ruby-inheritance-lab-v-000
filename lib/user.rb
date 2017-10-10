@@ -2,6 +2,7 @@ class User
 
   def initialize(first_name, last_name)
     @first_name = first_name
-    @last_name = lastname
+    @last_name = last_name
+  end
 
 end #class User
